@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#273238</color>
+    <!--主题颜色-->
+    <color name="themeColor">#FF4B5E</color>
+    <!--导航栏色-->
+    <color name="actionBarColor">#3E454F</color>
+
+</resources>
